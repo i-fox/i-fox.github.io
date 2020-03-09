@@ -11,7 +11,7 @@ tag:
 permalink: azurelane/formidable
 ---
 
-![Enterprise from Azure Lane]({{ site.url }}/images/enterprise.png)
+![Formidable from Azure Lane]({{ site.url }}/images/Formidable.png)
 
 | 名称 | Ver | 更新日 | 配布先 | 備考 |
 |---|---|---|---|---|
