@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F.式 エンタープライズ"
+title:  "エンタープライズ"
 date:   2019-11-08
 excerpt: ""
 tag:
