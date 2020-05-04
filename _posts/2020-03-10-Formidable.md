@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "F.式 フォーミダブル"
+title:  "フォーミダブル"
 date:   2020-03-10
 excerpt: ""
 tag:
