@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "F.式 エンタープライズ"
-date:   2019-11-08
+title:  "F.式 コッコロ"
+date: 
 excerpt: ""
 tag:
 - mmd
@@ -11,7 +11,7 @@ tag:
 permalink: pcr/kokoro
 ---
 
-![Enterprise from Azure Lane]({{ site.url }}/images/enterprise.png)
+![pcr]({{ site.url }}/images/enterprise.png)
 
 | 名称 | Ver | 更新日 | 配布先 | 備考 |
 |---|---|---|---|---|
