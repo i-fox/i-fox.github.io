@@ -13,6 +13,22 @@ permalink: azurelane/enterprise
 
 ![Enterprise from Azure Lane]({{ site.url }}/images/enterprise.png)
 
+<style type="text/css">
+    #pcr-list td:last-child {
+        text-align: center !important;
+    }
+    .pcr-centered {
+        text-align: center !important;
+    }
+</style>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 | 名称 | Ver | 更新日 | 配布先 | 備考 |
 |---|---|---|---|---|
 | F.式 エンタープライズ | 1.01 | 2019-11-12 | [▼](https://bowlroll.net/file/211350) | pass: NoLemon |
