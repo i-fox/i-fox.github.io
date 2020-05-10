@@ -16,4 +16,5 @@ permalink: azurelane/formidable
 | 名称 | Ver | 更新日 | 配布先 | 備考 |
 |---|---|---|---|---|
 | F.式 フォーミダブル | 1.00 | 2020-03-10 | [▼](https://bowlroll.net/file/220066) | pass: じっとしてなさい |
+
 |動画  [YouTube](https://youtu.be/y_qKARG1dbs)|
