@@ -12,12 +12,12 @@ permalink: azurelane/formidable
 ---
 
 ![Formidable from Azure Lane]({{ site.url }}/images/Formidable.png)
-
 <br/>
-<div class="pcr-centered"><a href="https://www.bilibili.com/video/BV1XE411T7EG/">BILIBILI</a> · <a href="https://youtu.be/y_qKARG1dbs">YouTube</a></div>
 <br/>
 <div class="pcr-centered">↓</div>
-<div class="pcr-centered"><a href="https://bowlroll.net/file/225213">カメラモーション配布</a></div>
+<div class="pcr-centered"><a href="https://bowlroll.net/file/225213">動画</a></div>
+<br/>
+<div class="pcr-centered"><a href="https://www.bilibili.com/video/BV1XE411T7EG/">BILIBILI</a> · <a href="https://youtu.be/y_qKARG1dbs">YouTube</a></div>
 <br/>
 <br/>
 <br/>
